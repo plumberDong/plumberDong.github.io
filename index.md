@@ -1,6 +1,6 @@
 > This website is primarily intended for storing datasets and images that can be downloaded via HTTP.
 
-[简历]("jianli")
+[简历]("./jianli")
 
 # DATASETS
 
